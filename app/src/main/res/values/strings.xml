@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AudioRecord</string>
+    <string name="filemodel">文件模式</string>
+    <string name="streammodel">字节流模式</string>
+    <string name="presstosay">按住 说话</string>
+    <string name="start">开始录音</string>
+    <string name="play">播放</string>
+</resources>
